@@ -1,2 +1,2 @@
-# prouction-Expense-app-mern
-expense mern stack app
+# prouction-Expense-mern
+expense mern stack 
